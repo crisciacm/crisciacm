@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @crisciacm
+- 👀 I’m interested in biology, content creation and social currencies
+- 🌱 I’m currently learning a lot of stuff
+- 💞️ I’m looking to collaborate on Cambiatus github
+- 📫 How to reach me: crisciacm@gmail.com
